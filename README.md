@@ -13,12 +13,12 @@ Practice Git CLI, basic HTML elements and build short introduction about yoursel
 3. Deplpyed the application using netlify. Here is the deploy link: https://homepagehtml.netlify.app/
 
 
-## Table of contect
+## Table of content
 
 1. headings, paragraphs, link, italic, ordered list, unordered list,table, form image
 
 
-## Tecknologies
+## Technologies
 
 1. HTML5
 
